@@ -1287,6 +1287,10 @@ Other Style Guides
     }
     ```
 
+   <a name="classes--should--have--names"></a><a name="9.8"></a>
+
+- [9.8](#class--declaration--should--have--names) Classes should have names. If you create a class, that means you want to have something that encapsulates common object behavior. If so, you must provide a name for it - it makes reading and understanding the code easier.
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Modules
