@@ -1289,8 +1289,15 @@ Other Style Guides
 
    <a name="classes--should--have--names"></a><a name="9.8"></a>
 
-- [9.8](#class--declaration--should--have--names) Classes should have names. If you create a class, that means you want to have something that encapsulates common object behavior. If so, you must provide a name for it - it makes reading and understanding the code easier.
+- [9.8](#class--declaration--should--have--names) Classes should have names. If you create a class, that means you want to have something that encapsulates common object behavior. If so, you must provide a name for it - makes reading and understanding the code easier.
 
+   <a name="classes--should--have--names"></a><a name="9.8"></a>
+
+- [9.9](#one--class--one--file) One class - one file. Your code must be easy to decompose.
+
+   <a name="classes--should--have--names"></a><a name="9.8"></a>
+
+- [9.10](#class--file--name--should--be--same) Class file name should be equals to class name. You code must not have surprises for reader.
 **[⬆ back to top](#table-of-contents)**
 
 ## Modules
